@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\KPL_MOD10_SE-48_04_103022400113_HAH\\MOD10\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB39895-F912-2791-0AFF-7AC801834DF8}|MOD10\\MOD10.csproj|d:\\kpl_mod10_se-48_04_103022400113_hah\\mod10\\mod10\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB39895-F912-2791-0AFF-7AC801834DF8}|MOD10\\MOD10.csproj|solutionrelative:mod10\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB39895-F912-2791-0AFF-7AC801834DF8}|MOD10\\MOD10.csproj|d:\\kpl_mod10_se-48_04_103022400113_hah\\mod10\\mod10\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB39895-F912-2791-0AFF-7AC801834DF8}|MOD10\\MOD10.csproj|solutionrelative:mod10\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\KPL_MOD10_SE-48_04_103022400113_HAH\\MOD10\\MOD10\\Game.cs",
+              "RelativeDocumentMoniker": "MOD10\\Game.cs",
+              "ToolTip": "D:\\KPL_MOD10_SE-48_04_103022400113_HAH\\MOD10\\MOD10\\Game.cs",
+              "RelativeToolTip": "MOD10\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T23:59:17.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\KPL_MOD10_SE-48_04_103022400113_HAH\\MOD10\\MOD10\\GameController.cs",
+              "RelativeDocumentMoniker": "MOD10\\GameController.cs",
+              "ToolTip": "D:\\KPL_MOD10_SE-48_04_103022400113_HAH\\MOD10\\MOD10\\GameController.cs",
+              "RelativeToolTip": "MOD10\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T00:21:20.53Z",
+              "EditorCaption": ""
             }
           ]
         }
